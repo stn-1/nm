@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ôn tập Trắc nghiệm</title>
+    <style>
+      /* --- CSS GIAO DIỆN --- */
+      :root {
+        --primary-color: #4a90e2;
+        --secondary-color: #6c757d;
+        --success-color: #28a745;
+        --danger-color: #dc3545;
+        --bg-color: #f0f2f5;
+        --card-bg: #ffffff;
+      }
+
+      body {
+        font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        background-color: var(--bg-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 20px; /* Thêm padding cho mobile */
+        box-sizing: border-box;
+      }
+
+      .quiz-container {
+        background-color: var(--card-bg);
+        width: 100%;
+        max-width: 650px; /* Tăng độ rộng một chút */
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .header {
+        margin-bottom: 20px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #eee;
+        text-align: center;
+      }
+
+      .progress-label {
+        font-weight: 600;
+        color: #777;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      #question-text {
+        font-size: 1.3rem;
+        color: #333;
+        margin: 0 0 25px 0;
+        line-height: 1.6;
+        font-weight: 600;
+      }
+
+      .options-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .option-btn {
+        background-color: #fff;
+        border: 2px solid #e9ecef;
+        border-radius: 10px;
+        color: #495057;
+        padding: 15px 20px;
+        text-align: left;
+        cursor: pointer;
+        font-size: 1rem;
+        transition: all 0.2s ease;
+        outline: none;
+      }
+
+      .option-btn:hover {
+        background-color: #f8f9fa;
+        border-color: #ced4da;
+        transform: translateY(-2px); /* Hiệu ứng nổi lên khi di chuột */
+      }
+
+      /* Style cho đáp án đúng */
+      .option-btn.correct {
+        background-color: #d4edda;
+        border-color: var(--success-color);
+        color: #155724;
+        font-weight: 500;
+      }
+
+      /* Style cho đáp án sai */
+      .option-btn.wrong {
+        background-color: #f8d7da;
+        border-color: var(--danger-color);
+        color: #721c24;
+        opacity: 0.8;
+      }
+
+      /* Khu vực nút điều hướng (Footer) */
+      .footer {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-between; /* Đẩy 2 nút ra 2 góc */
+        align-items: center;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+      }
+
+      .nav-btn {
+        padding: 12px 24px;
+        border: none;
+        border-radius: 8px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background 0.2s;
+        min-width: 120px;
+      }
+
+      #prev-btn {
+        background-color: #e2e6ea;
+        color: #495057;
+      }
+
+      #prev-btn:hover {
+        background-color: #dbe0e5;
+      }
+
+      #next-btn {
+        background-color: var(--primary-color);
+        color: white;
+      }
+
+      #next-btn:hover {
+        background-color: #357abd;
+      }
+
+      /* Ẩn nút nếu cần */
+      .hidden {
+        visibility: hidden; /* Dùng visibility để giữ khoảng trống thay vì display:none */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="quiz-container">
+      <!-- Header hiển thị số câu -->
+      <div class="header">
+        <span class="progress-label" id="progress">Đang tải...</span>
+      </div>
+
+      <!-- Nội dung câu hỏi -->
+      <h2 id="question-text">Vui lòng chờ...</h2>
+
+      <!-- Danh sách đáp án -->
+      <div class="options-list" id="options-container"></div>
+
+      <!-- Footer chứa 2 nút điều hướng nằm trong khung -->
+      <div class="footer">
+        <button id="prev-btn" class="nav-btn">← Quay lại</button>
+        <button id="next-btn" class="nav-btn">Câu tiếp →</button>
+      </div>
+    </div>
+
+    <script>
+      // --- JAVASCRIPT LOGIC ---
+
+      let quizData = [];
+      let currentQuestionIndex = 0;
+
+      // Lấy các element từ DOM
+      const questionTextEl = document.getElementById("question-text");
+      const optionsContainer = document.getElementById("options-container");
+      const nextBtn = document.getElementById("next-btn");
+      const prevBtn = document.getElementById("prev-btn");
+      const progressEl = document.getElementById("progress");
+
+      // Gán sự kiện click cho 2 nút điều hướng
+      prevBtn.addEventListener("click", () => changeQuestion(-1));
+      nextBtn.addEventListener("click", () => changeQuestion(1));
+
+      // Tải dữ liệu JSON
+      fetch("data.json")
+        .then((res) => {
+          if (!res.ok) throw new Error("Không tìm thấy file data.json");
+          return res.json();
+        })
+        .then((data) => {
+          quizData = data;
+          loadQuiz();
+        })
+        .catch((err) => {
+          console.error(err);
+          questionTextEl.innerText = "Lỗi: Không thể tải dữ liệu câu hỏi.";
+          progressEl.innerText = "Error";
+        });
+
+      // Hàm hiển thị câu hỏi (Reset trạng thái mỗi khi gọi)
+      function loadQuiz() {
+        resetState();
+
+        const currentQuizData = quizData[currentQuestionIndex];
+
+        // Cập nhật số thứ tự câu
+        progressEl.innerText = `CÂU HỎI ${currentQuestionIndex + 1} / ${
+          quizData.length
+        }`;
+
+        // Hiển thị nội dung câu hỏi
+        questionTextEl.innerText = currentQuizData.question;
+
+        // Tạo các nút đáp án A, B, C, D
+        ["A", "B", "C", "D"].forEach((key) => {
+          // Kiểm tra xem câu hỏi có đáp án đó không (đề phòng câu chỉ có A,B,C)
+          if (currentQuizData[key]) {
+            const button = document.createElement("button");
+            button.innerText = `${key}. ${currentQuizData[key]}`;
+            button.classList.add("option-btn");
+
+            // Sự kiện click chọn đáp án (Check ngay lập tức)
+            button.addEventListener("click", () =>
+              checkAnswer(button, key, currentQuizData.answer)
+            );
+
+            optionsContainer.appendChild(button);
+          }
+        });
+
+        // Cập nhật ẩn/hiện nút điều hướng
+        updateNavButtons();
+      }
+
+      // Hàm xử lý logic kiểm tra đúng sai
+      function checkAnswer(selectedButton, selectedKey, correctKey) {
+        const allButtons = optionsContainer.querySelectorAll(".option-btn");
+
+        if (selectedKey === correctKey) {
+          // Đúng -> Tô xanh nút được chọn
+          selectedButton.classList.add("correct");
+        } else {
+          // Sai -> Tô đỏ nút được chọn
+          selectedButton.classList.add("wrong");
+
+          // Tìm nút đúng để tô xanh cho người dùng nhớ
+          allButtons.forEach((btn) => {
+            if (btn.innerText.startsWith(`${correctKey}.`)) {
+              btn.classList.add("correct");
+            }
+          });
+        }
+
+        // (Tùy chọn) Có thể không cần disable nút để người dùng bấm lại nếu muốn
+        // allButtons.forEach(btn => btn.disabled = true);
+      }
+
+      // Hàm xóa các đáp án cũ
+      function resetState() {
+        while (optionsContainer.firstChild) {
+          optionsContainer.removeChild(optionsContainer.firstChild);
+        }
+      }
+
+      // Hàm chuyển câu hỏi
+      function changeQuestion(direction) {
+        const newIndex = currentQuestionIndex + direction;
+
+        // Xử lý vòng lặp: Nếu ở câu cuối bấm Next -> Về câu 1
+        if (newIndex >= quizData.length) {
+          currentQuestionIndex = 0;
+          loadQuiz();
+          return;
+        }
+
+        // Logic thông thường
+        if (newIndex >= 0 && newIndex < quizData.length) {
+          currentQuestionIndex = newIndex;
+          loadQuiz();
+        }
+      }
+
+      // Cập nhật hiển thị nút Quay lại và Tiếp theo
+      function updateNavButtons() {
+        // Nút Quay lại: Ẩn nếu ở câu đầu tiên (dùng visibility để giữ layout không bị nhảy)
+        if (currentQuestionIndex === 0) {
+          prevBtn.style.visibility = "hidden";
+        } else {
+          prevBtn.style.visibility = "visible";
+        }
+
+        // Nút Tiếp theo: Đổi chữ nếu là câu cuối
+        if (currentQuestionIndex === quizData.length - 1) {
+          nextBtn.innerText = "Về đầu ↻";
+        } else {
+          nextBtn.innerText = "Câu tiếp →";
+        }
+      }
+    </script>
+  </body>
+</html>

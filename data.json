@@ -1,0 +1,810 @@
+[
+  {
+    "question": "Câu 1: Vai trò của cách mạng công nghiệp đối với phát triển là:",
+    "A": "Thúc đẩy phát triển lực lượng sản xuất",
+    "B": "Bảo tồn văn hóa",
+    "C": "Ổn định dân số",
+    "D": "Giảm cạnh tranh",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 2: Chức năng thước đo giá trị của tiền tệ có nghĩa là?",
+    "A": "Tiền dùng để mua hàng hoá hoặc trả nợ",
+    "B": "Tiền được rút khỏi quá trình lưu thông và được cất giữ nhằm cất trữ của cải",
+    "C": "Tiền dùng làm trung gian trong trao đổi hàng hóa",
+    "D": "Tiền dùng để đo lường giá trị của các hàng hóa khác",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 3: Chọn đáp án đúng: Cho đến nay có mấy mô hình công nghiệp hoá đã được triển khai thực hiện?",
+    "A": "3",
+    "B": "4",
+    "C": "2",
+    "D": "1",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 4: Thời gian sản xuất là?",
+    "A": "Thời gian mà tư bản nằm trong giai đoạn sản xuất",
+    "B": "Thời gian lao động để tạo ra sản phẩm",
+    "C": "Thời gian tiêu thụ sản phẩm",
+    "D": "Thời gian luân chuyển vốn",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 5: Ai là người phát triển lý luận kinh tế chính trị trong giai đoạn cuối thế kỷ XIX – đầu thế kỷ XX?",
+    "A": "François Quesnay",
+    "B": "V.I. Lênin",
+    "C": "A. Montchrétien",
+    "D": "Thomas Mun",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 6: Hao mòn vô hình của tư bản cố định là do?",
+    "A": "Cường độ sử dụng quá cao",
+    "B": "Sự tiến bộ của khoa học công nghệ làm cho tư bản cố định cũ bị mất giá",
+    "C": "Người sử dụng không thực hiện bảo dưỡng định kỳ theo yêu cầu của nhà sản xuất",
+    "D": "Quan hệ cung - cầu về tài sản trên thị trường",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 7: Chọn đáp án đúng nhất về tác động tích cực của hội nhập kinh tế quốc tế:",
+    "A": "Hội nhập kinh tế quốc tế tạo điều kiện mở rộng thị trường, tiếp thu khoa học - công nghệ, vốn, chuyển dịch cơ cấu kinh tế trong nước.",
+    "B": "Hội nhập kinh tế quốc tế gia tăng sự phụ thuộc do nợ nước ngoài, tình trạng bất bình đẳng trong trao đổi mậu dịch.",
+    "C": "Hội nhập kinh tế quốc tế tạo ra nhiều cơ hội việc làm mới và nâng cao mức thu nhập tương đối của các tầng lớp dân cư.",
+    "D": "Hội nhập kinh tế quốc tế giúp mở cửa thị trường, thu hút vốn, thúc đẩy công nghiệp hoá, tăng tích luỹ.",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 8: Chủ nghĩa tư bản ngày nay có những đặc điểm mới nào so với thời Lênin?",
+    "A": "Sản xuất nông nghiệp là chủ yếu",
+    "B": "Vai trò của nhà nước giảm đi",
+    "C": "Không còn độc quyền",
+    "D": "Xuất hiện các công ty xuyên quốc gia",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 9: Xuất khẩu tư bản hiện nay chủ yếu dưới hình thức nào?",
+    "A": "Viện trợ không hoàn lại",
+    "B": "Đầu tư trực tiếp nước ngoài",
+    "C": "Hỗ trợ kỹ thuật",
+    "D": "Chỉ cho vay",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 10: Việc Chính phủ Việt Nam triển khai các gói hỗ trợ phục hồi kinh tế sau đại dịch COVID-19 thể hiện rõ nhất đặc trưng nào của Kinh tế thị trường định hướng XHCN?",
+    "A": "Thực hiện nhiều hình thức phân phối, chủ yếu phân phối theo lao động và hiệu quả kinh tế",
+    "B": "Tăng trưởng kinh tế gắn với công bằng và tiến bộ xã hội",
+    "C": "Tồn tại nhiều hình thức sở hữu và thành phần kinh tế",
+    "D": "Quản lý nền kinh tế có sự điều tiết của Nhà nước xã hội chủ nghĩa",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 11: Việc Nhà nước Việt Nam tập trung vào việc tạo lập và phát triển đồng bộ, hiện đại các loại thị trường là một nhiệm vụ nhằm hoàn thiện đặc trưng nào của KTTTĐH XHCN?",
+    "A": "Nền kinh tế có nhiều hình thức sở hữu, nhiều thành phần kinh tế",
+    "B": "Thực hiện nhiều hình thức phân phối, chủ yếu phân phối theo lao động và hiệu quả kinh tế",
+    "C": "Tồn tại nhiều hình thức sở hữu và thành phần kinh tế",
+    "D": "Kinh tế thị trường vận hành đầy đủ, đồng bộ theo các quy luật của kinh tế thị trường.",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 12: Để khắc phục các khuyết tật của kinh tế thị trường Nhà nước cần:",
+    "A": "Hạn chế hoạt động kinh doanh của khu vực tư nhân trong lĩnh vực ngân hàng",
+    "B": "Thực hiện sản xuất và cung ứng tất cả các hàng hóa công cộng",
+    "C": "Xây dựng hệ thống pháp luật, chính sách và cơ chế phù hợp để điều tiết thị trường",
+    "D": "Quy định giá trần và giá sàn cho tất cả các hàng hóa – dịch vụ",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 13: Chọn đáp án đúng: Trong điều kiện toàn cầu hoá kinh tế, hội nhập kinh tế quốc tế trở thành tất yếu khách quan vì:",
+    "A": "Sự phát triển của khoa học - công nghệ làm cho mọi nền kinh tế trở nên độc lập hoàn toàn",
+    "B": "Toàn cầu hoá kinh tế đã lôi cuốn tất cả các nước vào hệ thống phân công lao động quốc tế",
+    "C": "Các quốc gia ngày càng có nhu cầu hợp tác để tận dụng lợi thế của nhau",
+    "D": "Các quốc gia đều muốn mở rộng lãnh thổ và chiếm lĩnh thị trường thế giới",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 14: Trọng tâm của thể chế kinh tế thị trường là?",
+    "A": "Ngân sách quốc gia",
+    "B": "Chính sách phát triển kinh tế tư nhân và thúc đẩy đổi mới sáng tạo",
+    "C": "Luật pháp, hệ thống quy tắc, bộ máy quản lý và cơ chế vận hành",
+    "D": "Luật giá và chính sách quản lý giá",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 15: Tư bản thương nghiệp có chức năng gì?",
+    "A": "Thúc đẩy phát triển hệ thống hạ tầng giao thông vận tải và thị trường tài chính",
+    "B": "Biến hàng hóa thành tiền và tiền thành hàng hóa, thúc đẩy lưu thông hàng hóa",
+    "C": "Cho vay vốn",
+    "D": "Trực tiếp sản xuất ra hàng hóa",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 16: Giá trị thương hiệu quốc gia của Việt Nam năm 2024 xếp thứ bao nhiêu trong số 193 quốc gia được đánh giá?",
+    "A": "32",
+    "B": "30",
+    "C": "33",
+    "D": "31",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 17: Các quốc gia có dịch vụ chiếm tỷ trọng lớn trong GDP thường thuộc nhóm nào?",
+    "A": "Nhóm các quốc gia phát triển",
+    "B": "Nhóm các quốc gia công nghiệp mới",
+    "C": "Nhóm các quốc gia có trình độ phát triển kinh tế khá",
+    "D": "Nhóm các quốc gia có trình độ phát triển kinh tế thấp",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 18: Cách mạng khoa học và công nghệ hiện đại ảnh hưởng đến chủ nghĩa tư bản như thế nào?",
+    "A": "Thúc đẩy phát triển lực lượng sản xuất, hình thành nền kinh tế tri thức, thay đổi cơ cấu ngành",
+    "B": "Làm suy thoái nền kinh tế",
+    "C": "Giảm nhu cầu về lao động trí óc",
+    "D": "Gây ra lạm phát",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 19: Mệnh giá 1 cổ phiếu trên thị trường chứng khoán Việt Nam hiện nay là:",
+    "A": "20.000 đồng",
+    "B": "25.000 đồng",
+    "C": "15.000 đồng",
+    "D": "10.000 đồng",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 20: Cơ quan lãnh đạo nền kinh tế thị trường định hướng XHCN ở Việt Nam là?",
+    "A": "Hội đồng doanh nghiệp",
+    "B": "Quốc hội",
+    "C": "Đảng Cộng sản Việt Nam",
+    "D": "Bộ Công thương",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 21: Nguyên nhân ra đời của độc quyền nhà nước trong chủ nghĩa tư bản là do",
+    "A": "Xu thế quốc tế hóa đời sống kinh tế, sự gia tăng mâu thuẫn xã hội, nhu cầu ổn định kinh tế vĩ mô",
+    "B": "Mong muốn của giai cấp công nhân",
+    "C": "Nhu cầu phát triển độc lập",
+    "D": "Sự phát triển của nông nghiệp",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 22: Trong hoàn thiện thể chế về phân phối thu nhập, giải pháp nào sau đây thể hiện tính định hướng xã hội chủ nghĩa rõ nét nhất?",
+    "A": "Thiết lập một hệ thống thuế lũy tiến và thuế tài sản phù hợp để đảm bảo công bằng trong phân phối lại.",
+    "B": "Tăng cường tính cạnh tranh trong việc trả lương cho người lao động.",
+    "C": "Bỏ chính sách lương tối thiểu vùng",
+    "D": "Loại bỏ các quỹ an sinh xã hội và sự tham gia của các tổ chức xã hội trong phân phối thu nhập",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 23: Thể chế kinh tế thị trường định hướng XHCN là?",
+    "A": "Cơ chế thị trường và các chủ thể tham gia thị trường",
+    "B": "Các chính sách kinh tế của nhà nước",
+    "C": "Hệ thống pháp luật và bộ máy quản lý nhà nước",
+    "D": "Hệ thống đường lối, chủ trương chiến lược, luật pháp, chính sách... nhằm hướng đến xác lập đồng bộ các yếu tố thị trường, các loại thị trường hiện đại theo định hướng xã hội chủ nghĩa",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 24: Chủ trương trong quan hệ quốc tế của Việt Nam là:",
+    "A": "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế",
+    "B": "Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế",
+    "C": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế",
+    "D": "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 25: Chọn đáp án đúng: Cách mạng công nghiệp lần thứ nhất diễn ra bắt đầu từ ngành sản xuất nào?",
+    "A": "Ngành công nghiệp đường sắt",
+    "B": "Ngành công nghiệp cơ khí chế tạo",
+    "C": "Ngành công nghiệp khai khoáng (than, quặng sắt)",
+    "D": "Ngành công nghiệp dệt",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 26: Cấu tạo hữu cơ của tư bản (c/v) là gì?",
+    "A": "Tỷ lệ giữa giá trị thặng dư và tư bản khả biến",
+    "B": "Tỷ lệ giữa giá trị tư bản bất biến và giá trị tư bản khả biến",
+    "C": "Tỷ lệ giữa tư bản cố định và tư bản lưu động",
+    "D": "Tỷ lệ giữa tư liệu sản xuất và sức lao động",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 27: Đảng Cộng sản Việt Nam lãnh đạo nền kinh tế thị trường định hướng XHCN thông qua?",
+    "A": "Cương lĩnh, pháp luật, kế hoạch, quyết sách, đường lối",
+    "B": "Cương lĩnh, đường lối, chủ trương, quyết sách lớn",
+    "C": "Cương lĩnh, đường lối, kế hoạch, chiến lược",
+    "D": "Cương lĩnh, Luật, Nghị định, chủ trương, quyết sách lớn",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 28: Sở hữu nhà nước trong độc quyền nhà nước tư bản chủ nghĩa có vai trò gì?",
+    "A": "Chỉ phục vụ an sinh xã hội",
+    "B": "Tạo cơ sở vật chất kỹ thuật cho độc quyền tư nhân, giải quyết vấn đề cung cấp tư liệu sản xuất lớn",
+    "C": "Loại bỏ sở hữu tư nhân",
+    "D": "Hạn chế cạnh tranh",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 29: Chọn đáp án đúng nhất về nội dung hội nhập kinh tế quốc tế:",
+    "A": "Thực hiện đa dạng hoá các hình thức hội nhập kinh tế quốc tế.",
+    "B": "Chuẩn bị các điều kiện để thực hiện hội nhập hiệu quả, thành công.",
+    "C": "Hội nhập kinh tế quốc tế là phương thức phát triển phổ biến của các nước, nhất là các nước đang và kém phát triển trong điều kiện hiện nay.",
+    "D": "Các nước đang và kém phát triển cần phải có chiến lược hợp lý, tìm kiếm các đối sách phù hợp để thích ứng với quá trình toàn cầu hoá.",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 30: Sự can thiệp của nhà nước tư sản vào kinh tế trong nền kinh tế thị trường tư bản chủ nghĩa nhằm mục đích gì?",
+    "A": "Giảm lợi nhuận của các tập đoàn",
+    "B": "Thực hiện chủ nghĩa xã hội",
+    "C": "Xóa bỏ hoàn toàn độc quyền",
+    "D": "Điều tiết kinh tế vĩ mô, khắc phục khủng hoảng, bảo vệ lợi ích của tư bản độc quyền",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 31: Chọn đáp án đúng: Câu nói: “Toàn cầu hoá không tốt, không xấu. Nó có sức mạnh để đem lại vô số điều tốt” là của ai?",
+    "A": "Josehp E. Stiglitz",
+    "B": "Thomas Friedman",
+    "C": "P.A. Samuelson",
+    "D": "V.I. Lênin",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 32: Khi tốc độ chu chuyển của tư bản tăng lên, điều gì sẽ xảy ra?",
+    "A": "Giá trị của tư bản bất biến tăng",
+    "B": "Khối lượng giá trị thặng dư tạo ra trong một thời kỳ tăng",
+    "C": "Giá trị của tư bản khả biến giảm",
+    "D": "Khối lượng giá trị thặng dư tạo ra trong một thời kỳ giảm",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 33: Tư bản cố định là bộ phận tư bản bất biến mà giá trị của nó?",
+    "A": "Không chuyển vào sản phẩm",
+    "B": "Biến đổi theo từng chu kỳ sản xuất",
+    "C": "Chuyển từng phần vào giá trị sản phẩm theo mức độ hao mòn",
+    "D": "Chuyển toàn bộ vào giá trị sản phẩm trong một chu kỳ sản xuất",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 34: Chức năng phương tiện lưu thông của tiền tệ có nghĩa là?",
+    "A": "Tiền dùng làm phương tiện thúc đẩy lưu thông hàng hóa",
+    "B": "Tiền dùng để mua hàng hoặc trả nợ",
+    "C": "Tiền dùng để đo lường giá trị của các hàng hóa khác",
+    "D": "Tiền được rút khỏi quá trình lưu thông và được cất giữ nhằm cất trữ của cải",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 35: Quy luật giá trị yêu cầu việc sản xuất và trao đổi hàng hóa phải được tiến hành dựa trên:",
+    "A": "Hao phí lao động xã hội",
+    "B": "Các quy định của nhà nước về đấu thầu",
+    "C": "Các quy định của nhà nước về đấu giá",
+    "D": "Hao phí lao động cá biệt",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 36: Ở Việt Nam, giá trị đất đai trong mua bán bất động sản là:",
+    "A": "Giá trị quyền sở hữu đất",
+    "B": "Giá trị lợi thế thương mại",
+    "C": "Giá trị quyền sử dụng đất",
+    "D": "Giá trị tiền thuê đất hàng năm",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 37: Các chính sách phát triển kinh tế, chính sách thuế, chính sách an sinh xã hội và giáo dục, y tế hiện nay tại Việt Nam thể hiện rõ nhất đặc trưng nào của Kinh tế thị trường định hướng XHCN",
+    "A": "Tồn tại nhiều hình thức sở hữu và thành phần kinh tế",
+    "B": "Tăng trưởng kinh tế gắn với công bằng và tiến bộ xã hội",
+    "C": "Kinh tế nhà nước giữ vai trò chủ đạo, kinh tế tư nhân là động lực quan trọng của nền kinh tế",
+    "D": "Thực hiện nhiều hình thức phân phối, chủ yếu phân phối theo lao động và hiệu quả kinh tế",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 38: Hạn chế của độc quyền nhà nước trong chủ nghĩa tư bản là?",
+    "A": "Thúc đẩy tăng trưởng quá nhanh",
+    "B": "Làm sâu sắc thêm mâu thuẫn giữa tư bản độc quyền và toàn xã hội",
+    "C": "Giảm thất nghiệp",
+    "D": "Làm giảm lợi nhuận của các tập đoàn",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 39: Chọn ý đúng về mối quan hệ giữa tỷ suất lợi nhuận (p') và tỷ suất giá trị thặng dư (m'):",
+    "A": "p' lớn hơn m'",
+    "B": "p' phản ánh trực tiếp trình độ bóc lột của nhà tư bản",
+    "C": "p' nhỏ hơn m'",
+    "D": "m' chỉ ra nơi đầu tư có lợi cho nhà tư bản",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 40: Lợi nhuận bình quân là?",
+    "A": "Lợi nhuận mà mọi doanh nghiệp đều có thể đạt được khi đầu tư tư bản vào các ngành",
+    "B": "Số lợi nhuận bằng nhau của những tư bản như nhau đầu tư vào những ngành khác nhau",
+    "C": "Lợi nhuận bình quân giữa nông nghiệp, công nghiệp, lâm nghiệp, thương mại",
+    "D": "Số lợi nhuận bằng nhau của những tư bản như nhau đầu tư vào cùng một ngành",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 41: Ưu thế của nền kinh tế thị trường là?",
+    "A": "Luôn đảm bảo công bằng xã hội tuyệt đối",
+    "B": "Loại trừ nguy cơ khủng hoảng kinh tế",
+    "C": "Tạo động lực cho sự sáng tạo của các chủ thể kinh tế",
+    "D": "Loại trừ được cạnh tranh không lành mạnh",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 42: Chính sách quản lý nào của Nhà nước thể hiện rõ nhất vai trò điều tiết nhằm đảm bảo tính định hướng xã hội chủ nghĩa trong cơ chế phân phối?",
+    "A": "Tăng cường kiểm soát giá cả đối với tất cả các mặt hàng tiêu dùng.",
+    "B": "Chính sách tiền lương tối thiểu và thực hiện bảo hiểm xã hội bắt buộc.",
+    "C": "Thực hiện cổ phần hóa các doanh nghiệp nhà nước.",
+    "D": "Đẩy mạnh cải cách hành chính, giảm thủ tục đăng ký kinh doanh.",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 43: Chọn đáp án đúng nhất: Lý do phải hoàn thiện thể thế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam:",
+    "A": "Do hệ thống pháp luật chưa đầy đủ, còn thiếu và chưa đồng bộ; cơ chế thị trường hiện nay còn kém hiệu quả",
+    "B": "Do hệ thống thể chế còn kém hiệu lực, hiệu quả, thiếu các yếu tố thị trường và các loại thị trường.",
+    "C": "Do hệ thống thể chế chưa đầy đủ còn thiếu các yếu tố thị trường",
+    "D": "Do các cơ chế của nền kinh tế thị trường định hướng xã hội chủ nghĩa còn chưa đồng bộ.",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 44: Thành tựu nổi bật nhất của nền kinh tế thị trường định hướng XHCN ở Việt Nam trong những năm qua là?",
+    "A": "Nền kinh tế phát triển năng động, duy trì tốc độ tăng trưởng cao, đời sống nhân dân được cải thiện đáng kể",
+    "B": "Xóa bỏ hoàn toàn khoảng cách giàu nghèo",
+    "C": "Trở thành nước có nền công nghiệp nặng hàng đầu thế giới",
+    "D": "Đạt mức thu nhập cao nhất thế giới",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 45: Chọn ý không đúng về mối quan hệ giữa lợi nhuận và giá trị thặng dư:",
+    "A": "Lợi nhuận là hình thức biểu hiện biến tướng của giá trị thặng dư",
+    "B": "Giá trị thặng dư được hình thành trong sản xuất, còn lợi nhuận thể hiện trên thị trường",
+    "C": "Lợi nhuận và giá trị thặng dư xét về lượng bằng nhau trong mọi trường hợp",
+    "D": "Bản chất của lợi nhuận là giá trị thặng dư được 'che giấu'",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 46: Lợi nhuận thương nghiệp là gì?",
+    "A": "Phần giá trị thặng dư mà nhà tư bản công nghiệp nhượng lại cho nhà tư bản thương nghiệp",
+    "B": "Phần chênh lệch giữa giá mua và giá bán của nhà tư bản thương nghiệp",
+    "C": "Lợi nhuận từ sản xuất",
+    "D": "Lợi nhuận từ hoạt động đầu tư tài chính của doanh nghiệp",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 47: Chọn đáp án đúng về xây dựng chiến lược và lộ trình hội nhập kinh tế phù hợp:",
+    "A": "Về chủ thể tham gia hội nhập, Nhà nước là một chủ thể quan trọng nhưng không phải là duy nhất",
+    "B": "Vấn đề tranh thủ thời cơ, vượt qua thách thức trong hội nhập quốc tế là vấn đề cần đặc biệt coi trọng.",
+    "C": "Đánh giá được những điều kiện khách quan, chủ quan có ảnh hưởng đến hội nhập kinh tế của nước ta. Cần làm rõ vị trí của Việt Nam để xác định khả năng và điều kiện để có thể hội nhập.",
+    "D": "Việt Nam không thể đứng ngoài dòng chảy của lịch sử, hội nhập quốc tế không chỉ là 'khẩu hiệu thời thượng' mà phải là 'phương thức tồn tại và phát triển' của nước ta hiện nay.",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 48: Độc quyền nhà nước trong chủ nghĩa tư bản là sự kết hợp giữa?",
+    "A": "Nhà nước và các công ty tư nhân nhỏ lẻ",
+    "B": "Sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản",
+    "C": "Kinh tế thị trường và kinh tế kế hoạch",
+    "D": "Tư bản trong nước và tư bản nước ngoài",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 49: Dịch vụ không có đặc điểm nào?",
+    "A": "Không thể cất trữ",
+    "B": "Việc sản xuất và tiêu dùng được diễn ra đồng thời",
+    "C": "Tính đồng nhất",
+    "D": "Tính vô hình",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 50: Cấu tạo hữu cơ của tư bản tăng lên phản ánh?",
+    "A": "Tư bản khả biến tăng nhanh hơn tư bản bất biến",
+    "B": "Năng suất lao động giảm",
+    "C": "Tư bản bất biến tăng nhanh hơn tư bản khả biến",
+    "D": "Tư bản bất biến giảm",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 51: Sự điều tiết của nhà nước tư sản thể hiện qua các chính sách nào?",
+    "A": "Chỉ chính sách tiền tệ",
+    "B": "Chỉ chính sách xã hội",
+    "C": "Chỉ chính sách giáo dục",
+    "D": "Chính sách tài khóa, tiền tệ, giá cả, thu nhập, đầu tư, xuất nhập khẩu",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 52: Chức năng phương tiện cất trữ của tiền tệ có nghĩa là?",
+    "A": "Tiền dùng để mua hàng hoặc trả nợ",
+    "B": "Tiền dùng để đo lường giá trị của các hàng hóa khác",
+    "C": "Tiền dùng làm phương tiện thúc đẩy lưu thông hàng hóa",
+    "D": "Tiền được rút khỏi quá trình lưu thông và được cất giữ nhằm cất trữ của cải",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 53: Chọn đáp án đúng nhất: Các loại thị trường cơ bản ở Việt Nam phân theo đối tượng trao đổi gồm:",
+    "A": "Thị trường hàng hoá và dịch vụ; Thị trường lao động; Thị trường công nghệ; thị trường yếu tố sản xuất",
+    "B": "Thị trường hàng hoá tiêu dùng thông thường; thị trường công nghệ; Thị trường hàng hoá sức lao động; thị trường bất động sản",
+    "C": "Thị trường vốn; thị trường công nghệ; Thị trường hàng hoá sức lao động; thị trường bất động sản",
+    "D": "Thị trường hàng hoá tiêu dùng thông thường; Thị trường vốn; thị trường công nghệ; thị trường bất động sản",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 54: Chọn khái niệm đúng nhất về toàn cầu hoá:",
+    "A": "Toàn cầu hoá là sự phụ thuộc lẫn nhau ngày càng tăng giữa các quốc gia trên quy mô toàn cầu.",
+    "B": "Toàn cầu hoá là quá trình tạo ra sự phụ thuộc lẫn nhau ngày càng tăng giữa các quốc gia trên quy mô toàn cầu.",
+    "C": "Toàn cầu hoá là quá trình tạo ra liên kết ngày càng tăng giữa các quốc gia trên quy mô toàn cầu.",
+    "D": "Toàn cầu hoá là quá trình tạo ra liên kết và sự phụ thuộc lẫn nhau ngày càng tăng giữa các quốc gia trên quy mô toàn cầu.",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 55: Tốc độ chu chuyển của tư bản được đo bằng gì?",
+    "A": "Tổng lượng tư bản sử dụng trong 1 năm",
+    "B": "Thời gian sản xuất cộng thời gian lưu thông của tư bản",
+    "C": "Số vòng tuần hoàn của tư bản trong 1 năm",
+    "D": "Tổng thời gian của một vòng tuần hoàn tư bản",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 56: Loại chứng khoán nào sau đây không có thời điểm đáo hạn?",
+    "A": "Trái phiếu",
+    "B": "Cổ phiếu",
+    "C": "Chứng quyền",
+    "D": "Hợp đồng tương lai",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 57: Vòng tuần hoàn của tư bản là?",
+    "A": "Vòng đời của một sản phẩm",
+    "B": "Sự trao đổi hàng hóa trên thị trường",
+    "C": "Quá trình luân chuyển tiền tệ trong ngân hàng",
+    "D": "Tư bản tiền tệ, tư bản sản xuất, tư bản hàng hóa",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 58: Yếu tố nào dưới đây là cơ bản nhất để Nhà nước có thể đảm bảo hài hòa các quan hệ lợi ích kinh tế?",
+    "A": "Bảo vệ lợi ích hợp pháp, tạo môi trường thuận lợi cho hoạt đông tìm kiếm lợi ích của các chủ thể kinh tế",
+    "B": "Tăng thuế suất thuế thu nhập cá nhân",
+    "C": "Tăng thuế suất thuế thu nhập doanh nghiệp",
+    "D": "Tạo môi trường kinh doanh thuận lợi cho khu vực kinh tế tư nhân",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 59: Một trong những khuyết tật của kinh tế thị trường là?",
+    "A": "Thiếu hụt hàng hóa công cộng",
+    "B": "Tối ưu hóa phân bổ nguồn lực",
+    "C": "Hạn chế đổi mới sáng tạo",
+    "D": "Tự do hóa thương mại và đầu tư",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 60: Xu thế toàn cầu hóa là gì?",
+    "A": "Sự liên kết văn hóa",
+    "B": "Sự độc quyền của một nước trên thế giới",
+    "C": "Sự phát triển độc lập của mỗi quốc gia",
+    "D": "Quá trình gia tăng sự phụ thuộc lẫn nhau giữa các quốc gia về kinh tế, chính trị, văn hóa, xã hội",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 61: Các hình thức chủ yếu của độc quyền nhà nước trong chủ nghĩa tư bản là?",
+    "A": "Chỉ có sở hữu nhà nước",
+    "B": "Chỉ có tư hữu hóa",
+    "C": "Sở hữu nhà nước, sự điều tiết của nhà nước, kết hợp độc quyền nhà nước và độc quyền tư nhân",
+    "D": "Chỉ có kế hoạch hóa tập trung",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 62: Cơ chế thị trường hoạt động dựa trên nguyên tắc nào sau đây?",
+    "A": "Kế hoạch hóa tập trung",
+    "B": "Phân phối thu nhập công bằng",
+    "C": "Các doanh nghiệp nhà nước chiếm thị phần khống chế trong tất cả các ngánh",
+    "D": "Tự do cạnh tranh, giá cả do thị trường quyết định",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 63: Chọn đáp án đúng nhất: Nhà nước quản lý nền kinh tế thị trường định hướng xã hội chủ nghĩa thông qua:",
+    "A": "Cương lĩnh, đường lối, chủ trương, quyết sách lớn",
+    "B": "Hệ thống pháp luật, các chiến lược, kế hoạch, quy hoạch và cơ chế, chính sách.",
+    "C": "Hệ thống pháp luật, các chiến lược, kế hoạch, quy hoạch và cơ chế, chính sách cùng các công cụ kinh tế trên cơ sở tôn trọng các nguyên tắc của thị trường phù hợp với yêu cầu xây dựng xã hội xã hội chủ nghĩa ở Việt Nam.",
+    "D": "Hệ thống các chiến lược, kế hoạch, quy hoạch và cơ chế, chính sách cùng các công cụ kinh tế.",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 64: Kết hợp độc quyền nhà nước tư sản với độc quyền tư nhân biểu hiện ở?",
+    "A": "Chỉ trong các công ty quốc phòng",
+    "B": "Chỉ khi có khủng hoảng kinh tế",
+    "C": "Các liên minh độc quyền nhà nước - tư nhân, sự tham gia của đại diện độc quyền vào bộ máy nhà nước",
+    "D": "Chỉ trong lĩnh vực dịch vụ công",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 65: Cuộc cách mạng công nghiệp lần thứ ba gắn với sự phát triển của:",
+    "A": "Giao thông vận tải",
+    "B": "Viễn thông",
+    "C": "Công nghệ thông tin và máy tính",
+    "D": "Truyền hình",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 66: Chọn đáp án đúng nhất: Mục tiêu của kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam là:",
+    "A": "Góp phần giảm bớt phân hoá giàu nghèo trong xã hội.",
+    "B": "Thúc đẩy phát triển kinh tế thị trường và hội nhập quốc tế.",
+    "C": "Xây dựng quan hệ sản xuất tiến bộ, phù hợp nhằm ngày càng hoàn thiện cơ sở kinh tế - xã hội của chủ nghĩa xã hội.",
+    "D": "Để đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước, phát triển lực lượng sản xuất, nâng cao năng lực cạnh tranh của nền kinh tế.",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 67: Các công ty xuyên quốc gia (TNCs) có vai trò gì trong chủ nghĩa tư bản hiện đại?",
+    "A": "Hạn chế cạnh tranh",
+    "B": "Chỉ hoạt động trong nước",
+    "C": "Đóng vai trò ngày càng quan trọng trong sản xuất, thương mại, đầu tư toàn cầu, thúc đẩy quốc tế hóa",
+    "D": "Chỉ sản xuất các mặt hàng tiêu dùng",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 68: Ưu điểm của độc quyền nhà nước trong chủ nghĩa tư bản là?",
+    "A": "Loại bỏ khủng hoảng kinh tế",
+    "B": "Không có cạnh tranh",
+    "C": "Có khả năng ổn định kinh tế vĩ mô, tập trung nguồn lực phát triển các ngành trọng yếu",
+    "D": "Xóa bỏ hoàn toàn phân hóa giàu nghèo",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 69: Tỷ suất lợi nhuận (p’) là tỷ lệ tính theo phần trăm giữa?",
+    "A": "Lợi nhuận và tư bản khả biến",
+    "B": "Lợi nhuận và tổng tư bản ứng trước",
+    "C": "Lợi nhuận và doanh thu",
+    "D": "Lợi nhuận và tư bản bất biến",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 70: Yếu tố nào sau đây là cốt lõi trong xây dựng giá trị của một thương hiệu?",
+    "A": "Quảng cáo, tiếp thị",
+    "B": "Quy mô kinh doanh",
+    "C": "Chất lượng của sản phẩm/dịch vụ",
+    "D": "Bao bì, hình thức của sản phẩm/dịch vụ",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 71: Chọn đáp án đúng nhất về biện pháp trọng tâm để xây dựng thành công nền kinh tế độc lập, tự chủ đi đôi với tích cực hội nhập kinh tế quốc tế:",
+    "A": "Hoàn thiện, bổ sung đường lối kinh tế, xây dựng và phát triển đất nước.",
+    "B": "Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước.",
+    "C": "Đẩy mạnh quan hệ đối ngoại và chủ động hội nhập kinh tế quốc tế đáp ứng yêu cầu và lợi ích của đất nước.",
+    "D": "Tăng cường năng lực cạnh tranh của nền kinh tế bằng hoàn thiện thể chế kinh tế, hành chính, đặc biệt là tăng cường ứng dụng khoa học – công nghệ hiện đại",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 72: Một trong những nhiệm vụ trọng tâm để hoàn thiện thể chế Kinh tế thị trường định hướng XHCN là 'tạo lập môi trường cạnh tranh bình đẳng, minh bạch'. Điều này có ý nghĩa gì đối với vai trò chủ đạo của kinh tế nhà nước?",
+    "A": "Kinh tế nhà nước cần tham gia và kiểm soát hoàn toàn các ngành tài chính và ngân hàng",
+    "B": "Kinh tế nhà nước phải được ưu tiên hoàn toàn, không cần cạnh tranh",
+    "C": "Kinh tế nhà nước phải tự chủ kinh doanh, cạnh tranh bình đẳng và chứng minh được vai trò chủ đạo bằng hiệu quả kinh tế.",
+    "D": "Các quy định về cạnh tranh chỉ áp dụng cho khu vực kinh tế tư nhân",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 73: Hao mòn hữu hình của tư bản cố định là do?",
+    "A": "Sự lạc hậu về kỹ thuật",
+    "B": "Quan hệ cung - cầu về tài sản trên thị trường",
+    "C": "Quá trình sử dụng và tác động của tự nhiên",
+    "D": "Thay đổi nhu cầu tiêu dùng",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 74: Chọn đáp án sai về nội dung hoàn thiện thể chế về các mô hình sản xuất kinh doanh:",
+    "A": "Hoàn thiện thể chế về huy động các nguồn lực đầu tư và đổi mới cơ chế quản lý của nhà nước để các đơn vị sự nghiệp công lập phát triển có hiệu quả.",
+    "B": "Thể chế hoá nội dung và phương thức hoạt động của kinh tế tập thể.",
+    "C": "Hoàn thiện thể chế quản lý các doanh nghiệp có vốn đầu tư trực tiếp nước ngoài.",
+    "D": "Thể chế hoá việc cơ cấu lại, đổi mới và nâng cao hiệu quả doanh nghiệp nhà nước.",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 75: Cách mạng công nghiệp lần thứ tư bắt đầu tại nước nào, năm nào?",
+    "A": "Đức, năm 2011",
+    "B": "Hàn Quốc, năm 2012",
+    "C": "Mỹ, năm 2005",
+    "D": "Anh, năm 2000",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 76: Chức năng phương tiện thanh toán của tiền có nghĩa là?",
+    "A": "Tiền dùng để đo lường giá trị của các hàng hóa khác",
+    "B": "Tiền dùng để mua hàng hoặc trả nợ",
+    "C": "Tiền dùng làm phương tiện thúc đẩy lưu thông hàng hóa",
+    "D": "Tiền được rút khỏi quá trình lưu thông và được cất giữ nhằm cất trữ của cải",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 77: Thời gian lưu thông là?",
+    "A": "Thời gian mà tư bản nằm trong quá trình sản xuất",
+    "B": "Thời gian để sản xuất ra hàng hóa",
+    "C": "Thời gian vận chuyển hàng hóa từ nơi sản xuất đến nơi tiêu thụ",
+    "D": "Thời gian mà tư bản chỉ tồn tại dưới hình thái tiền tệ và hàng hóa",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 78: Kinh tế chính trị Mác – Lênin là kết quả kế thừa trực tiếp lý luận từ trường phái nào?",
+    "A": "Kinh tế chính trị cổ điển Anh",
+    "B": "Kinh tế học hành vi",
+    "C": "Chủ nghĩa trọng thương",
+    "D": "Chủ nghĩa trọng nông",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 79: Ai là người sáng lập ra lý luận kinh tế chính trị Mác – Lênin?",
+    "A": "C. Mác và Ph. Ăngghen",
+    "B": "V.I. Lênin",
+    "C": "A. Smith",
+    "D": "D. Ricardo",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 80: Khi đồng thời tăng năng suất lao động và cường độ lao động lên 2 lần thì ý nào sau đây là đúng?",
+    "A": "Tổng số hàng hóa tăng 2 lần, tổng lượng giá trị tăng 2 lần",
+    "B": "Tổng giá trị hàng hóa tăng 2 lần, giá trị 1 đơn vị hàng hóa không thay đổi",
+    "C": "Tổng giá trị hàng hóa tăng 2 lần, giá trị 1 đơn vị hàng hóa giảm 2 lần",
+    "D": "Tổng số hàng hóa tăng 4 lần, tổng lượng giá trị tăng 4 lần",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 81: Để khắc phục tình trạng 'chảy máu chất xám' (lao động có trình độ cao rời bỏ Việt Nam), nhiệm vụ trọng tâm nào trong hoàn thiện thể chế thị trường lao động cần được ưu tiên?",
+    "A": "Tăng cường kiểm soát sự di chuyển của lao động giữa các vùng miền.",
+    "B": "Xây dựng các khu công nghiệp mới",
+    "C": "Đơn giản hóa thủ tục xuất nhập cảnh cho lao động nước ngoài",
+    "D": "Hoàn thiện thể chế về tiền lương, bảo hiểm xã hội, và các cơ chế tạo động lực, tôn vinh người tài.",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 82: Chọn đáp án đúng: Cách mạng công nghiệp lần thứ nhất bắt đầu diễn ra vào thế kỷ nào?",
+    "A": "Thế kỷ XVI",
+    "B": "Thế kỷ XVII",
+    "C": "Thế kỷ XIX",
+    "D": "Thế kỷ XVIII",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 83: Chọn đáp án đúng nhất: Nội dung hoàn thiện thế chế phát triển đồng bộ các yếu tố thị trường gồm:",
+    "A": "Hoàn thiện hệ thống thể chế về giá; về thúc đẩy cạnh tranh.",
+    "B": "Hoàn thiện hệ thống thể chế về giá; về chất lượng hàng hoá, dịch vụ.",
+    "C": "Hoàn thiện hệ thống thể chế về giá; về thúc đẩy cạnh tranh; về chất lượng hàng hoá, dịch vụ.",
+    "D": "Hoàn thiện hệ thống thể chế về thúc đẩy cạnh tranh; về chất lượng hàng hoá, dịch vụ.",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 84: Chọn đáp án đúng: Các nước chậm phát triển hiện nay có thể thực hiện công nghiệp hoá bằng con đường nào sau đây?",
+    "A": "Tiếp nhận chuyển giao hoàn toàn công nghệ hiện đại từ các nước phát triển.",
+    "B": "Tập trung phát triển nông nghiệp thuần tuý, không chú trọng công nghiệp và công nghệ.",
+    "C": "Thông qua tự nghiên cứu, chế tạo để phát triển công nghệ từ trình độ thấp tới trình độ cao.",
+    "D": "Xây dựng chiến lược phát triển khoa học công nghệ nhiều tầng, kết hợp cả công nghệ truyền thống với công nghệ hiện đại",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 85: Mục tiêu cơ bản của hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam là?",
+    "A": "Thúc đẩy tăng trưởng xuất khẩu và thu hút đầu tư nước ngoài",
+    "B": "Đảm bảo vai trò chủ đạo của kinh tế nhà nước",
+    "C": "Thúc đẩy phát triển khu vực kinh tế tư nhân",
+    "D": "Phát triển kinh tế nhanh, hiệu quả, bền vững, hội nhập quốc tế thành công và giữ vững định hướng xã hội chủ nghĩa.",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 86: Chọn đáp án đúng: Chiến lược thực hiện công nghiệp hoá của Nhật Bản và các nước NIC được gọi là gì?",
+    "A": "Chiến lược công nghiệp hoá hướng ngoại.",
+    "B": "Chiến lược công nghiệp hoá rút ngắn dựa trên mục tiêu hướng về xuất khẩu, phát triển sản xuất trong nước thay thế nhập khẩu.",
+    "C": "Chiến lược công nghiệp hoá kiểu mới thích ứng với những biến đổi của cách mạng công nghiệp lần thứ tư.",
+    "D": "Chiến lược công nghiệp hoá phát triển sản xuất trong nước thay thế nhập khẩu.",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 87: Hình thái giá trị ban đầu trong trao đổi hàng hóa là:",
+    "A": "Hình thái giá trị ngẫu nhiên",
+    "B": "Hình thái giá trị đầy đủ",
+    "C": "Hình thái tiền",
+    "D": "Hình thái giá trị chung",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 88: Chọn đáp án đúng: Phạm trù: “Kinh tế thị trường định hướng xã hội chủ nghĩa” lần đầu tiên được Đảng Cộng sản Việt Nam nêu ra tại Đại hội lần thứ mấy?",
+    "A": "Đại hội Đảng toàn quốc lần thứ XIII (2021)",
+    "B": "Đại hội Đảng toàn quốc lần thứ IX (2001)",
+    "C": "Đại hội Đảng toàn quốc lần thứ XI (2011)",
+    "D": "Đại hội Đảng toàn quốc lần thứ VII (1991)",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 89: Vai trò chủ yếu của tư bản thương nghiệp trong nền kinh tế thị trường là:",
+    "A": "Giảm giá cả hàng hóa",
+    "B": "Tăng hiệu quả chu chuyển tư bản",
+    "C": "Làm giảm cầu hàng hóa",
+    "D": "Thúc đẩy tiến bộ khoa học kỹ thuật",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 90: Đâu là một trong những thành công nổi bật của công nghiệp hóa, hiện đại hóa ở Việt Nam?",
+    "A": "Nông nghiệp lạc hậu",
+    "B": "Chuyển dịch cơ cấu kinh tế theo hướng công nghiệp, dịch vụ, tăng trưởng kinh tế cao",
+    "C": "Giảm vai trò của kinh tế thị trường",
+    "D": "Gia tăng bao cấp",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 91: Một thách thức lớn về nguồn nhân lực khi công nghiệp hóa, hiện đại hóa là?",
+    "A": "Thừa lao động",
+    "B": "Thiếu hụt lao động chất lượng cao và cơ cấu lao động chưa phù hợp",
+    "C": "Dân số già hóa",
+    "D": "Lao động giá rẻ",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 92: Chủ trương trong quan hệ quốc tế của Việt Nam là:",
+    "A": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế",
+    "B": "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế",
+    "C": "Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế",
+    "D": "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế",
+    "answer": "A"
+  },
+  {
+    "question": "Câu 93: Sự hình thành lợi nhuận bình quân và giá cả sản xuất là kết quả của?",
+    "A": "Cạnh tranh trong nội bộ ngành",
+    "B": "Quy luật cung cầu",
+    "C": "Độc quyền sản xuất",
+    "D": "Cạnh tranh giữa các ngành",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 94: Những lý luận nền tảng về kinh tế thị trường được xây dựng bởi:",
+    "A": "Chủ nghĩa trọng thương",
+    "B": "Kinh tế chính trị Mác - Lê nin",
+    "C": "Chủ nghĩa trọng nông",
+    "D": "Kinh tế chính trị tư sản cổ điển Anh",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 95: Đối tượng nghiên cứu của Kinh tế chính trị Mác – Lênin là:",
+    "A": "Giá cả và tiền tệ",
+    "B": "Hoạt động doanh nghiệp",
+    "C": "Quy luật cung – cầu trong thị trường",
+    "D": "Quan hệ xã hội của sản xuất và trao đổi",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 96: Giá trị quyền sử dụng đất phụ thuộc chủ yếu vào?",
+    "A": "Quy định của nhà nước",
+    "B": "Mục đích sử dụng đất",
+    "C": "Độ màu mỡ của đất",
+    "D": "Vị trí của đất đai",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 97: Lựa chọn các từ thích hợp dưới đây để điền vào chỗ chấm: Nền kinh tế độc lập, tự chủ là nền kinh tế không bị …(1)…., phụ thuộc vào nước khác, người khác hoặc vào một tổ chức kinh tế nào đó về đường lối, chính sách phát triển, không bị bất cứ ai dùng những điều kiện kinh tế, tài chính, thương mại, viện trợ…để …(2)……, khống chế làm tổn hại …(3)….. quốc gia và …(4)…. cơ bản của dân tộc.",
+    "A": "khống chế; áp đặt; lợi ích; chủ quyền.",
+    "B": "khống chế; chi phối; lợi ích; chủ quyền.",
+    "C": "lệ thuộc; áp đặt; chủ quyền; lợi ích.",
+    "D": "lệ thuộc; chi phối; chủ quyền; lợi ích.",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 98: Tư bản lưu động chuyển giá trị của nó thế nào?",
+    "A": "Không chuyển vào sản phẩm",
+    "B": "Chuyển từng phần vào giá trị sản phẩm theo mức độ hao mòn",
+    "C": "Chuyển toàn bộ vào sản phẩm trong một chu kỳ sản xuất",
+    "D": "Biến đổi liên tục",
+    "answer": "C"
+  },
+  {
+    "question": "Câu 99: Nhà nước tư sản đảm nhận đầu tư vào ngành nào?",
+    "A": "Đầu tư nhỏ, thu hồi vốn nhanh, lợi nhuận cao",
+    "B": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận thấp",
+    "C": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận cao",
+    "D": "Đầu tư lớn, thu hồi vốn nhanh, lợi nhuận ít",
+    "answer": "B"
+  },
+  {
+    "question": "Câu 100: Giá cả sản xuất bằng?",
+    "A": "Giá bán trên thị trường",
+    "B": "Chi phí nguyên vật liệu",
+    "C": "Giá trị hàng hóa cộng với lợi nhuận bình quân",
+    "D": "Chi phí sản xuất cộng với lợi nhuận bình quân",
+    "answer": "D"
+  },
+  {
+    "question": "Câu 101: Căn cứ vào tính chất và cơ chế vận hành, thị trường phân thành:",
+    "A": "Thị trường tư liệu sản xuất, thị trường tư liệu tiêu dùng",
+    "B": "Thị trường tự do, thị trường có điều tiết, thị trường cạnh tranh hoàn hảo, thị trường cạnh tranh không hoàn hảo",
+    "C": "Thị trường theo các loại hàng hóa, dịch vụ khác nhau",
+    "D": "Thị trường trong nước, thị trường thế giới",
+    "answer": "B"
+  }
+]
